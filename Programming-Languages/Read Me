@@ -1,0 +1,35 @@
+The lecture topics include the following, not necessarily listed in chronological order:
+
+Overview and History
+Syntax and Parsing
+a. BNF, syntax diagrams, parse trees, simple parsing technique
+Variables and Expressions
+a.Declarations, attributes, aliases, binding
+b. Side effects, precedence, order of evaluation
+Control Structures
+a. Alternation, iteration, generators
+Data Types and Type-Checking
+a. Polymorphism and overloading, conversion and coercion
+b. Static vs. dynamic type-checking
+Modularization and Objects
+a. Separation of specification and implementation
+b. Generics and instantiation
+c. Inheritance
+d.; Dynamic binding and its implementation
+Data Abstraction
+a. Mutability, adequacy, categorization of operations
+b. Abstract specification
+Scope and Extent
+a. Block structure, visibility and holes, contour model
+b. Dynamic vs. static scope
+c. Run-time stack and heap implementation
+Parameter Passing
+a. Parameter transmission methods, procedural parameters
+Exception Handling
+a. Notions of raising, handling, and propagating
+Non-Imperative Programming Paradigms
+Functional programming languages
+Logic programming languages
+Additional Language Paradigms
+Concurrent, dataflow, constraint
+The projects focus either on various aspects of programming languages (for example, simple parsers, translators, symbolic computation, and implementation of abstract data types) or on exercising the particular strengths of a given language. Students work individually or in small groups on several programming projects. Students design, implement, and test their solutions. Each project typically uses a different language, such as: Ada, C++, Java, Smalltalk, Python, LISP, Scheme, Standard ML, Haskell, and Prolog. At least one project language will support object-oriented programming and at least one will be a non-imperative language.
